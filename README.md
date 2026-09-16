@@ -10,11 +10,6 @@
 [![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20DB-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://qdrant.tech)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-<br/>
-
-<img src="assets/mai_screen.png" alt="App Screenshot" width="85%"/>
-
-<br/>
 
 </div>
 
